@@ -24,4 +24,10 @@ Projetos finais de cada curso de estatística com python da alura. Sendo cada cu
 * Distribuição t de Student e Qui-Quadrado
 * Testes para provar Hipóteses
 
+## Estatística 04
+ 
+* Regressão linear
+* Teste de resultados e analise dos resíduos
+* Interpretação da covariância
+
 
